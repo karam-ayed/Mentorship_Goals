@@ -6,11 +6,11 @@ Mentorship Goals Needed To Finish
 
 - [x] Flex Box
 - [x] CSS Grid
-- [ ] Transform
-- [ ] Animation
-- [ ] Media Queries
-- [ ] Grid System
-- [ ] Create Your Framework || UI Kit
+- [x] Transform
+- [x] Animation
+- [x] Media Queries
+- [x] Grid System
+- [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
@@ -29,8 +29,8 @@ Mentorship Goals Needed To Finish
 
 - [ ] Lighthouse
 - [ ] Google Developer Tools
-- [ ] Git And Github
-- [ ] Terminal And Commands
+- [x] Git And Github
+- [x] Terminal And Commands
 
 ## Problem Solving And Challenges
 
@@ -59,9 +59,9 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ ] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
+- [x] Template 1 [HTML + CSS]
+- [x] Template 2 [HTML + CSS]
+- [x] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
@@ -82,7 +82,7 @@ Mentorship Goals Needed To Finish
 
 ## Save Time Skills
 
-- [ ] SASS
+- [x] SASS
 - [ ] Pugjs
 - [ ] One Of The Task Runners
 
