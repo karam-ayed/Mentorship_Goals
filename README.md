@@ -15,7 +15,7 @@ Mentorship Goals Needed To Finish
 ## JavaScript
 
 - [ ] DOM
-- [ ] Higher Order Functions
+- [x] Higher Order Functions
 - [ ] Destructuring
 - [ ] Scope
 - [ ] Local Storage
@@ -87,7 +87,6 @@ Mentorship Goals Needed To Finish
 - [ ] One Of The Task Runners
 
 ## Advanced Skills
-
 - [ ] BEM
 - [ ] Unit Testing
 - [ ] Debugging
