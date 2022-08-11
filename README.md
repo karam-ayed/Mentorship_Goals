@@ -53,7 +53,7 @@ Mentorship Goals Needed To Finish
 
 ### Front-End Mentors 15 Challenges
 
-- [ ] 5
+- [x] 5
 - [ ] 5
 - [ ] 5
 
